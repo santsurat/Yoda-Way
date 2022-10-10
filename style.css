@@ -15,6 +15,9 @@ body {
     font-family: 'Kalam', cursive;
     color: #333333;
 }
+span{
+    color: coral;
+}
 
 nav {
     background-color: var(--primary);
