@@ -10,7 +10,7 @@ var translateInput = document.querySelector("#txt-input");
 var translateOutput = document.querySelector("#translate-output");
 
 
-var url ="https://api.funtranslations.com/translate/yoda.json?text=i"
+var url ="https://api.funtranslations.com/translate/yoda.json"
 
 function buttonClickHandler(event) {
     console.log("button clicked");
